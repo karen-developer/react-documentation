@@ -2,7 +2,7 @@
 
 FreeCodeCamp Responsive Web Design Project
 
-![React Documentation](https://github.com/karen-developer/react-documentation/blob/master/react-documentation.png?raw=true)
+![React Documentation](https://github.com/karen-developer/react-documentation/blob/master/react-documentation.jpg?raw=true)
 
 User Story #1: I can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation).
 
